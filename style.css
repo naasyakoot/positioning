@@ -1,0 +1,21 @@
+
+body { margin: 0  }
+.cover {
+
+	width: 800px;
+	height: 1000px;
+	margin: auto;
+	background: grey;
+	position: relative;
+}
+.box {
+
+	width: 70px;
+	height: 70px;
+	margin: auto;
+	background: red;
+	position: absolute;
+
+	left: -30px; top: 30px;
+	
+}
